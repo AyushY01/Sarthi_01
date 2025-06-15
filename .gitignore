@@ -1,0 +1,15 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melody_tool/
+.android/
+ios/Pods/
+.idea/
+*.iml
+.vscode/
+*.log
+*.apk
+*.ipa
